@@ -1,5 +1,17 @@
 ## Hi there 👋
 
+I'm a recent SCSU grad in Information Systems trying to expand her horizons. 
+
+<details>
+  <summary>Current Activities</summary>
+  <ul>
+    <li>Python Hardvard CS50 Course</li>
+    <li>Power Automate Flows</li>
+    <li>SQL</li>
+</details>
+
+LinkedIn: https://www.linkedin.com/in/thor-pazong/
+
 <!--
 **Zelany1101/Zelany1101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
