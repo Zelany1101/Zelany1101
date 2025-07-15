@@ -11,7 +11,7 @@ I'm a recent SCSU grad in Information Systems trying to expand her horizons.
 </details>
 
 LinkedIn: https://www.linkedin.com/in/thor-pazong/
-
+Website: https://zelany1101.github.io/
 <!--
 **Zelany1101/Zelany1101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
