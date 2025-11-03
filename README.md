@@ -5,9 +5,9 @@ I'm a recent SCSU grad in Information Systems trying to expand her horizons.
 <details>
   <summary>Current Activities</summary>
   <ul>
-    <li>Python Hardvard CS50 Course</li>
-    <li>Power Automate Flows</li>
-    <li>SQL</li>
+    <li>Power Platform/li>
+    <li>Python Rigging</li>
+    <li>SQL and Data Analysis</li>
 </details>
 
 LinkedIn: https://www.linkedin.com/in/thor-pazong/
